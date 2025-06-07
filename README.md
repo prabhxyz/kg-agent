@@ -11,8 +11,7 @@
   ```text
   [("Question", "is answered by", "Answer"),
    ("Query", "executes on", "Database"),
-   ("Answer", "is the capital of", "France")]
-````
+   ("Answer", "is the capital of", "France")]```
 
 * 1,085 instance-level triples were created.
 * Schema and data graphs visualized correctly; sample subgraph was structurally sound.
